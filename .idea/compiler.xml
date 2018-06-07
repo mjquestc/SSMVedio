@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itmayiedu-commons" />
+        <module name="itmayiedu-dao" />
+        <module name="itmayiedu-entity" />
+        <module name="itmayiedu-service" />
+        <module name="itmayiedu-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itmayiedu-commons" target="1.7" />
+      <module name="itmayiedu-dao" target="1.8" />
+      <module name="itmayiedu-entity" target="1.7" />
+      <module name="itmayiedu-parent" target="1.8" />
+      <module name="itmayiedu-service" target="1.8" />
+      <module name="itmayiedu-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

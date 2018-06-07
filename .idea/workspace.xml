@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97279c31-b15c-4b40-ad0c-f73a5292f480" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/classes/com/itmayiedu/utils/IOUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/itmayiedu-commons-0.0.1-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/classes/com/itmayiedu/entity/VideoInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/classes/com/itmayiedu/entity/VideoType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/itmayiedu-entity-0.0.1-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/com/itmayiedu/service/VideoInfoService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/com/itmayiedu/service/VideoTypeService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/com/itmayiedu/service/impl/VideoInfoServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/com/itmayiedu/service/impl/VideoTypeServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/cut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/edit_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/edit_remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/filesave.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/mini_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/mini_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/mini_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/reload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/sum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/tip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/imgs/img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/imgs/img2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/com/itmayiedu/controller/backstage/TestController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/com/itmayiedu/controller/backstage/VideoInfoController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/com/itmayiedu/controller/backstage/ViideTypeController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/com/itmayiedu/controller/reception/IndexController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SSMVedio.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/itmayiedu_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/itmayiedu_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jr_jackson_jr_all_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/itmayiedu-commons.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/src/main/java/com/itmayiedu/utils/IOUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/itmayiedu-dao.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoInfoMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoTypeMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/itmayiedu-entity.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/src/main/java/com/itmayiedu/entity/VideoInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/src/main/java/com/itmayiedu/entity/VideoType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-parent/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-parent/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-parent/itmayiedu-parent.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-parent/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/itmayiedu-service.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoTypeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/impl/VideoInfoServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/impl/VideoTypeServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/META-INF/maven/com.itmayiedu/itmayiedu-service/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/META-INF/maven/com.itmayiedu/itmayiedu-service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.validation.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/itmayiedu-web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/TestController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/ViideTypeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/reception/IndexController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoTypeMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/properties/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/properties/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/SqlMapConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-dao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-service.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-trans.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/backstage/addVideo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/backstage/videoDetails.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/backstage/videoManag.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/indexVideoDetails.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/test.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/easyloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/jquery.easyui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/licence_gpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/license_commercial.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-cz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-sv_SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.combobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.combogrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.combotree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.datagrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.datebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.datetimebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.linkbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.menubutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.messager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.numberbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.numberspinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.propertygrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.searchbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.splitbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.timespinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.treegrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.validatebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/easyloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.combobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.datebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.linkbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.propertygrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/mappings/VideoInfoMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/mappings/VideoTypeMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/properties/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/properties/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/SqlMapConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/applicationContext-dao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/applicationContext-service.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/applicationContext-trans.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/m2e-wtp/web-resources/META-INF/maven/com.itmayiedu/itmayiedu-web/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/m2e-wtp/web-resources/META-INF/maven/com.itmayiedu/itmayiedu-web/pom.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/itmayiedu-web/target/" />
+    <ignored path="$PROJECT_DIR$/itmayiedu-service/target/" />
+    <ignored path="$PROJECT_DIR$/itmayiedu-entity/target/" />
+    <ignored path="$PROJECT_DIR$/itmayiedu-parent/target/" />
+    <ignored path="$PROJECT_DIR$/itmayiedu-dao/target/" />
+    <ignored path="$PROJECT_DIR$/itmayiedu-commons/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoInfoController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1638">
+              <caret line="101" column="20" lean-forward="false" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoInfoMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1218">
+              <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+              <folding>
+                <marker date="1523042241111" expanded="true" signature="932:1038" ph="select from video_info" />
+                <marker date="1523042241111" expanded="true" signature="1125:1185" ph="delete from " />
+                <marker date="1523042241111" expanded="true" signature="1273:1562" ph="insert into video_info... " />
+                <marker date="1523042241111" expanded="true" signature="2843:3426" ph="update video... " />
+                <marker date="1523042241111" expanded="true" signature="3526:3833" ph="update video... " />
+                <marker date="1523042241111" expanded="true" signature="3966:4188" ph="select a.id video_info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-trans.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-trans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoInfoService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/itmayiedu-web/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/TestController.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java" />
+        <option value="$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itmayiedu-dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itmayiedu-dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="backstage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mappings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SSMVedio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SSMVedio" type="462c0819:PsiDirectoryNode" />
+              <item name="itmayiedu-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97279c31-b15c-4b40-ad0c-f73a5292f480" name="Default" comment="" />
+      <created>1527840806660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527840806660</updated>
+      <workItem from="1527840812898" duration="16763000" />
+      <workItem from="1527940991011" duration="3507000" />
+      <workItem from="1528004484750" duration="8141000" />
+      <workItem from="1528086075220" duration="5093000" />
+      <workItem from="1528114614532" duration="3170000" />
+      <workItem from="1528161022271" duration="9085000" />
+      <workItem from="1528276873517" duration="1792000" />
+      <workItem from="1528289508674" duration="13000" />
+      <workItem from="1528289917498" duration="637000" />
+      <workItem from="1528337094219" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48820000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22685888" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47594503" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18437026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding>
+            <marker date="1523042241111" expanded="true" signature="932:1038" ph="select from video_info" />
+            <marker date="1523042241111" expanded="true" signature="1125:1185" ph="delete from " />
+            <marker date="1523042241111" expanded="true" signature="1273:1562" ph="insert into video_info... " />
+            <marker date="1523042241111" expanded="true" signature="2843:3426" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3526:3833" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3966:4188" ph="select a.id video_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3402">
+          <caret line="162" column="24" lean-forward="true" selection-start-line="162" selection-start-column="24" selection-end-line="162" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="136" column="44" lean-forward="true" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <marker date="1523042241111" expanded="true" signature="932:1038" ph="select from video_info" />
+            <marker date="1523042241111" expanded="true" signature="1125:1185" ph="delete from " />
+            <marker date="1523042241111" expanded="true" signature="1273:1562" ph="insert into video_info... " />
+            <marker date="1523042241111" expanded="true" signature="2843:3426" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3526:3833" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3966:4188" ph="select a.id video_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="81" column="35" lean-forward="false" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+          <folding>
+            <marker date="1523042241111" expanded="true" signature="932:1038" ph="select from video_info" />
+            <marker date="1523042241111" expanded="true" signature="1125:1185" ph="delete from " />
+            <marker date="1523042241111" expanded="true" signature="1273:1562" ph="insert into video_info... " />
+            <marker date="1523042241111" expanded="true" signature="2843:3426" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3526:3833" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3966:4188" ph="select a.id video_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="81" column="35" lean-forward="false" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+          <folding>
+            <marker date="1523042241111" expanded="true" signature="932:1038" ph="select from video_info" />
+            <marker date="1523042241111" expanded="true" signature="1125:1185" ph="delete from " />
+            <marker date="1523042241111" expanded="true" signature="1273:1562" ph="insert into video_info... " />
+            <marker date="1523042241111" expanded="true" signature="2843:3426" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3526:3833" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3966:4188" ph="select a.id video_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2226">
+          <caret line="106" column="64" lean-forward="true" selection-start-line="106" selection-start-column="64" selection-end-line="106" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="81" column="35" lean-forward="true" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+          <folding>
+            <marker date="1523042241111" expanded="true" signature="932:1038" ph="select from video_info" />
+            <marker date="1523042241111" expanded="true" signature="1125:1185" ph="delete from " />
+            <marker date="1523042241111" expanded="true" signature="1273:1562" ph="insert into video_info... " />
+            <marker date="1523042241111" expanded="true" signature="2843:3426" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3526:3833" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3966:4188" ph="select a.id video_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3654">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/properties/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-commons/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-entity/src/main/java/com/itmayiedu/entity/VideoInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/impl/VideoInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding>
+            <marker date="1523042241111" expanded="true" signature="932:1038" ph="select from video_info" />
+            <marker date="1523042241111" expanded="true" signature="1125:1185" ph="delete from " />
+            <marker date="1523042241111" expanded="true" signature="1273:1562" ph="insert into video_info... " />
+            <marker date="1523042241111" expanded="true" signature="2843:3426" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3526:3833" ph="update video... " />
+            <marker date="1523042241111" expanded="true" signature="3966:4188" ph="select a.id video_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.3.RELEASE/spring-webmvc-4.1.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="347" column="18" lean-forward="false" selection-start-line="347" selection-start-column="18" selection-end-line="347" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/4.1.3.RELEASE/spring-aspects-4.1.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="338.68554421768687">com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT</node>
+            <node x="276.0" y="0.0">jstl:jstl:jar:1.2</node>
+            <node x="504.0" y="40.5">javax.servlet:servlet-api:jar:2.5</node>
+            <node x="262.5" y="54.0">javax.servlet:jsp-api:jar:2.0</node>
+            <node x="215.0" y="127.0">commons-fileupload:commons-fileupload:jar:1.3.1</node>
+            <node x="496.5" y="127.0">commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2</node>
+            <node x="234.0" y="265.68554421768687">org.springframework:spring-webmvc:jar:4.1.3.RELEASE</node>
+            <node x="1167.0" y="346.1956349206349">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE</node>
+            <node x="722.0" y="297.20340136054404">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE</node>
+            <node x="956.5" y="269.81054421768687">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE</node>
+            <node x="1172.0" y="269.81054421768687">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="1369.0" y="273.8223639455782">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE</node>
+            <node x="1560.0" y="273.8223639455782">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="934.0" y="196.81054421768687">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE</node>
+            <node x="501.0" y="277.7954081632651">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE</node>
+            <node x="226.5" y="411.68554421768687">com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT</node>
+            <node x="489.5" y="358.65255102040794">com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/com.itmayiedu:itmayiedu-dao:jar:0.0.1-SNAPSHOT</node>
+            <node x="732.5" y="498.3670068027211">com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE</node>
+            <node x="963.5" y="498.18554421768687">com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE</node>
+            <node x="490.5" y="425.3670068027211">com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE</node>
+            <node x="724.0" y="425.3670068027211">com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE/org.aspectj:aspectjweaver:jar:1.8.4</node>
+            <node x="497.5" y="607.6855442176868">com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4</node>
+            <node x="744.0" y="571.3670068027211">com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4/org.slf4j:slf4j-api:jar:1.6.4</node>
+            <node x="754.0" y="644.3670068027211">com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4/log4j:log4j:jar:1.2.16</node>
+            <node x="230.0" y="338.68554421768687">com.itmayiedu:itmayiedu-entity:jar:0.0.1-SNAPSHOT</node>
+            <node x="216.5" y="587.3105442176868">com.fasterxml.jackson.core:jackson-annotations:jar:2.5.0</node>
+            <node x="496.0" y="826.6855442176868">com.fasterxml.jackson.core:jackson-core:jar:2.5.0</node>
+            <node x="226.5" y="717.1855442176868">com.fasterxml.jackson.core:jackson-databind:jar:2.4.2</node>
+            <node x="470.0" y="680.6855442176868">com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0</node>
+            <node x="496.0" y="753.6855442176868">com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-core:jar:2.4.2</node>
+            <node x="241.5" y="840.1855442176868">com.fasterxml.jackson.jr:jackson-jr-all:jar:2.5.0</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE">
+              <point x="66.0" y="-12.375" />
+              <point x="-76.5" y="8.25" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE">
+              <point x="76.0" y="-13.75" />
+              <point x="470.0" y="332.2954081632651" />
+              <point x="642.0" y="332.2954081632651" />
+              <point x="-66.0" y="11.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE">
+              <point x="68.5" y="-0.0" />
+              <point x="390.0" y="282.18554421768687" />
+              <point x="470.0" y="294.2954081632651" />
+              <point x="-55.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE" target="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE/org.aspectj:aspectjweaver:jar:1.8.4">
+              <point x="65.5" y="-0.0" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4" target="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4/org.slf4j:slf4j-api:jar:1.6.4">
+              <point x="58.5" y="-8.25" />
+              <point x="642.0" y="615.9355442176868" />
+              <point x="722.0" y="587.8670068027211" />
+              <point x="-44.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="47.0" y="-8.25" />
+              <point x="1087.0" y="506.43554421768687" />
+              <point x="-61.0" y="14.142857142857167" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="54.0" y="11.0" />
+              <point x="1087.0" y="297.31054421768687" />
+              <point x="-61.0" y="-14.142857142857167" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="68.5" y="13.199999999999989" />
+              <point x="390.0" y="295.38554421768686" />
+              <point x="470.0" y="348.15255102040794" />
+              <point x="1087.0" y="348.15255102040794" />
+              <point x="-61.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE">
+              <point x="55.0" y="4.125" />
+              <point x="642.0" y="298.4204081632651" />
+              <point x="-66.0" y="-11.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="javax.servlet:jsp-api:jar:2.0">
+              <point x="67.5" y="-9.0" />
+              <point x="215.0" y="70.5" />
+              <point x="-40.0" y="-0.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.4.2" target="com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-core:jar:2.4.2">
+              <point x="76.0" y="8.25" />
+              <point x="470.0" y="770.1855442176868" />
+              <point x="-60.0" y="-0.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.4.2" target="com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0">
+              <point x="76.0" y="-8.25" />
+              <point x="-86.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-databind:jar:2.4.2">
+              <point x="67.5" y="9.0" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="55.0" y="12.375" />
+              <point x="642.0" y="306.6704081632651" />
+              <point x="722.0" y="340.70340136054404" />
+              <point x="1087.0" y="340.70340136054404" />
+              <point x="-61.0" y="-4.714285714285722" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE">
+              <point x="67.5" y="-3.0" />
+              <point x="215.0" y="282.18554421768687" />
+              <point x="-68.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="54.0" y="-11.0" />
+              <point x="1087.0" y="275.31054421768687" />
+              <point x="1167.0" y="241.23191609977306" />
+              <point x="1289.0" y="241.23191609977306" />
+              <point x="-55.5" y="-2.0625" />
+            </edge>
+            <edge source="com.fasterxml.jackson.jr:jackson-jr-all:jar:2.5.0" target="com.fasterxml.jackson.core:jackson-core:jar:2.5.0">
+              <point x="61.0" y="-0.0" />
+              <point x="390.0" y="856.6855442176868" />
+              <point x="470.0" y="851.4355442176868" />
+              <point x="-60.0" y="8.25" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT" target="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE">
+              <point x="76.0" y="8.25" />
+              <point x="470.0" y="514.8670068027211" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="66.0" y="4.125" />
+              <point x="1289.0" y="317.82840136054404" />
+              <point x="-55.5" y="2.0625" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="76.5" y="-0.0" />
+              <point x="1289.0" y="213.31054421768687" />
+              <point x="-55.5" y="-6.1875" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE">
+              <point x="68.5" y="6.600000000000023" />
+              <point x="390.0" y="288.7855442176869" />
+              <point x="470.0" y="321.2954081632651" />
+              <point x="642.0" y="321.2954081632651" />
+              <point x="-66.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE" target="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE">
+              <point x="55.5" y="-0.0" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="javax.servlet:servlet-api:jar:2.5">
+              <point x="67.5" y="-12.0" />
+              <point x="215.0" y="43.5" />
+              <point x="390.0" y="43.5" />
+              <point x="470.0" y="48.75" />
+              <point x="-52.0" y="-8.25" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE/commons-logging:commons-logging:jar:1.2">
+              <point x="55.5" y="-0.0" />
+              <point x="-79.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="66.0" y="12.375" />
+              <point x="934.0" y="335.6944727891154" />
+              <point x="1087.0" y="335.6944727891154" />
+              <point x="-61.0" y="-9.428571428571445" />
+            </edge>
+            <edge source="commons-fileupload:commons-fileupload:jar:1.3.1" target="commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2">
+              <point x="87.5" y="-0.0" />
+              <point x="-59.5" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="jstl:jstl:jar:1.2">
+              <point x="67.5" y="-15.0" />
+              <point x="215.0" y="16.5" />
+              <point x="-26.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE">
+              <point x="66.0" y="-4.125" />
+              <point x="934.0" y="294.56054421768687" />
+              <point x="-54.0" y="8.25" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT" target="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE">
+              <point x="76.0" y="2.75" />
+              <point x="470.0" y="441.8670068027211" />
+              <point x="-65.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="55.0" y="-12.375" />
+              <point x="642.0" y="281.9204081632651" />
+              <point x="722.0" y="186.31054421768687" />
+              <point x="1289.0" y="186.31054421768687" />
+              <point x="-55.5" y="-10.3125" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT">
+              <point x="67.5" y="3.0" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="55.5" y="11.0" />
+              <point x="934.0" y="541.6855442176868" />
+              <point x="1289.0" y="541.6855442176868" />
+              <point x="-55.5" y="14.4375" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE">
+              <point x="55.0" y="-4.125" />
+              <point x="642.0" y="290.1704081632651" />
+              <point x="722.0" y="278.06054421768687" />
+              <point x="-54.0" y="-8.25" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="com.fasterxml.jackson.jr:jackson-jr-all:jar:2.5.0">
+              <point x="67.5" y="15.0" />
+              <point x="215.0" y="856.6855442176868" />
+              <point x="-61.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4" target="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4/log4j:log4j:jar:1.2.16">
+              <point x="58.5" y="8.25" />
+              <point x="642.0" y="632.4355442176868" />
+              <point x="722.0" y="660.8670068027211" />
+              <point x="-34.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="54.0" y="-0.0" />
+              <point x="-56.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-annotations:jar:2.5.0">
+              <point x="67.5" y="6.0" />
+              <point x="-86.0" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT" target="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/com.itmayiedu:itmayiedu-dao:jar:0.0.1-SNAPSHOT">
+              <point x="76.0" y="-8.25" />
+              <point x="470.0" y="375.15255102040794" />
+              <point x="-66.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="61.0" y="-0.0" />
+              <point x="-55.5" y="6.1875" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT" target="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.6.4">
+              <point x="76.0" y="13.75" />
+              <point x="470.0" y="624.1855442176868" />
+              <point x="-58.5" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-core:jar:2.5.0">
+              <point x="67.5" y="12.0" />
+              <point x="215.0" y="829.6855442176868" />
+              <point x="390.0" y="829.6855442176868" />
+              <point x="470.0" y="834.9355442176868" />
+              <point x="-60.0" y="-8.25" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="55.5" y="-11.0" />
+              <point x="934.0" y="462.29441609977306" />
+              <point x="1087.0" y="462.29441609977306" />
+              <point x="-61.0" y="9.428571428571445" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="68.5" y="-13.199999999999989" />
+              <point x="390.0" y="268.9855442176869" />
+              <point x="470.0" y="182.18554421768687" />
+              <point x="1289.0" y="182.18554421768687" />
+              <point x="-55.5" y="-14.4375" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="76.0" y="-2.75" />
+              <point x="470.0" y="414.8670068027211" />
+              <point x="1087.0" y="414.8670068027211" />
+              <point x="-61.0" y="4.714285714285722" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="commons-fileupload:commons-fileupload:jar:1.3.1">
+              <point x="67.5" y="-6.0" />
+              <point x="-87.5" y="-0.0" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-service:jar:0.0.1-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="47.0" y="8.25" />
+              <point x="1289.0" y="522.9355442176868" />
+              <point x="-55.5" y="10.3125" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE">
+              <point x="68.5" y="-6.600000000000023" />
+              <point x="390.0" y="275.58554421768685" />
+              <point x="470.0" y="205.06054421768687" />
+              <point x="-76.5" y="-8.25" />
+            </edge>
+            <edge source="com.itmayiedu:itmayiedu-web:0.0.1-SNAPSHOT" target="com.itmayiedu:itmayiedu-entity:jar:0.0.1-SNAPSHOT">
+              <point x="67.5" y="-0.0" />
+              <point x="-72.5" y="-0.0" />
+            </edge>
+            <edge source="javax.servlet:jsp-api:jar:2.0" target="javax.servlet:servlet-api:jar:2.5">
+              <point x="40.0" y="-0.0" />
+              <point x="390.0" y="70.5" />
+              <point x="470.0" y="65.25" />
+              <point x="-52.0" y="8.25" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="262.0" y="134.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.itmayiedu.controller.backstage.VideoInfoController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.itmayiedu.controller.backstage.VideoInfoController</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.stereotype.Controller</node>
+            <node x="" y="">com.itmayiedu.controller.backstage.VideoInfoController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="92.0" y="58.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="101" column="20" lean-forward="false" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.ArrayList">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.ArrayList</OriginalElement>
+          <nodes>
+            <node x="147.0" y="249.0">java.util.RandomAccess</node>
+            <node x="594.25" y="166.0">java.util.List</node>
+            <node x="401.25" y="166.0">java.util.AbstractCollection</node>
+            <node x="318.0" y="249.0">java.lang.Cloneable</node>
+            <node x="502.1125" y="83.0">java.util.Collection</node>
+            <node x="456.0" y="249.0">java.util.AbstractList</node>
+            <node x="510.6125" y="0.0">java.lang.Iterable</node>
+            <node x="323.5" y="332.0">java.util.ArrayList</node>
+            <node x="0.0" y="249.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.ArrayList" target="java.lang.Cloneable">
+              <point x="0.0" y="-16.5" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.RandomAccess">
+              <point x="-21.399999999999977" y="-16.5" />
+              <point x="355.6" y="302.0" />
+              <point x="222.5" y="302.0" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.io.Serializable">
+              <point x="-42.80000000000001" y="-16.5" />
+              <point x="334.2" y="312.0" />
+              <point x="63.5" y="312.0" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-16.5" />
+              <point x="630.25" y="141.0" />
+              <point x="590.6125" y="141.0" />
+              <point x="29.5" y="16.5" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.List">
+              <point x="31.75" y="-16.5" />
+              <point x="551.25" y="224.0" />
+              <point x="612.25" y="224.0" />
+              <point x="-18.0" y="16.5" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-16.5" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.List">
+              <point x="42.80000000000001" y="-16.5" />
+              <point x="419.8" y="312.0" />
+              <point x="648.25" y="312.0" />
+              <point x="18.0" y="16.5" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-31.75" y="-16.5" />
+              <point x="0.0" y="16.5" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-16.5" />
+              <point x="487.75" y="141.0" />
+              <point x="531.6125" y="141.0" />
+              <point x="-29.5" y="16.5" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.AbstractList">
+              <point x="21.399999999999977" y="-16.5" />
+              <point x="398.4" y="302.0" />
+              <point x="519.5" y="302.0" />
+              <point x="0.0" y="16.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="28.0" y="160.0" />
+          <SelectedNodes>
+            <node>java.util.ArrayList</node>
+            <node>java.io.Serializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>itmayiedu-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SSMVedio</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

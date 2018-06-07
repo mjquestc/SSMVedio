@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SSMVedio.iml" filepath="$PROJECT_DIR$/.idea/SSMVedio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-commons/itmayiedu-commons.iml" filepath="$PROJECT_DIR$/itmayiedu-commons/itmayiedu-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-dao/itmayiedu-dao.iml" filepath="$PROJECT_DIR$/itmayiedu-dao/itmayiedu-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-entity/itmayiedu-entity.iml" filepath="$PROJECT_DIR$/itmayiedu-entity/itmayiedu-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-parent/itmayiedu-parent.iml" filepath="$PROJECT_DIR$/itmayiedu-parent/itmayiedu-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-service/itmayiedu-service.iml" filepath="$PROJECT_DIR$/itmayiedu-service/itmayiedu-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-web/itmayiedu-web.iml" filepath="$PROJECT_DIR$/itmayiedu-web/itmayiedu-web.iml" />
+    </modules>
+  </component>
+</project>

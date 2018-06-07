@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itmayiedu-web:war">
+    <output-path>$PROJECT_DIR$/itmayiedu-web/target</output-path>
+    <root id="archive" name="itmayiedu-web.war">
+      <element id="artifact" artifact-name="itmayiedu-web:war exploded" />
+    </root>
+  </artifact>
+</component>
