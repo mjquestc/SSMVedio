@@ -25,7 +25,6 @@ import com.itmayiedu.service.VideoInfoService;
 import com.itmayiedu.service.VideoTypeService;
 
 /**
- * git测试
  * @classDesc: 功能描述:(查询视频)
  * @author: 余胜军
  * @createTime: 2017年9月14日 上午10:51:56
@@ -47,7 +46,7 @@ public class VideoInfoController {
 	private static final String VIDEODETAILS = BASE + "videoDetails";
 
 	/**
-	 * 
+	 *
 	 * @methodDesc: 功能描述:(视频首页)
 	 * @author: 余胜军
 	 * @param: @param
