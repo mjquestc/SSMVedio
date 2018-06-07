@@ -2,397 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97279c31-b15c-4b40-ad0c-f73a5292f480" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/classes/com/itmayiedu/utils/IOUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/itmayiedu-commons-0.0.1-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/classes/com/itmayiedu/entity/VideoInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/classes/com/itmayiedu/entity/VideoType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/itmayiedu-entity-0.0.1-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/com/itmayiedu/service/VideoInfoService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/com/itmayiedu/service/VideoTypeService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/com/itmayiedu/service/impl/VideoInfoServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/com/itmayiedu/service/impl/VideoTypeServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/cancel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/cut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/edit_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/edit_remove.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/filesave.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/mini_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/mini_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/mini_refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/no.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/ok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/redo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/reload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/sum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/tip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icons/undo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/img1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/imgs/img1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/imgs/img2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/com/itmayiedu/controller/backstage/TestController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/com/itmayiedu/controller/backstage/VideoInfoController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/com/itmayiedu/controller/backstage/ViideTypeController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/com/itmayiedu/controller/reception/IndexController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SSMVedio.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/itmayiedu_web_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/itmayiedu_web_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jr_jackson_jr_all_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/itmayiedu-commons.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/src/main/java/com/itmayiedu/utils/IOUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.settings/org.eclipse.wst.common.component" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/.settings/org.eclipse.wst.common.project.facet.core.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/itmayiedu-dao.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoInfoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-dao/src/main/java/com/itmayiedu/dao/VideoTypeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.settings/org.eclipse.wst.common.component" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/.settings/org.eclipse.wst.common.project.facet.core.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/itmayiedu-entity.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/src/main/java/com/itmayiedu/entity/VideoInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/src/main/java/com/itmayiedu/entity/VideoType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-entity/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-parent/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-parent/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-parent/itmayiedu-parent.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-parent/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.settings/org.eclipse.wst.common.component" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/.settings/org.eclipse.wst.common.project.facet.core.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/itmayiedu-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoInfoService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/VideoTypeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/impl/VideoInfoServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/src/main/java/com/itmayiedu/service/impl/VideoTypeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/META-INF/maven/com.itmayiedu/itmayiedu-service/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-service/target/classes/META-INF/maven/com.itmayiedu/itmayiedu-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/.jsdtscope" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.common.component" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.common.project.facet.core.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/.settings/org.eclipse.wst.validation.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/itmayiedu-web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/TestController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/ViideTypeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/reception/IndexController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoInfoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/mappings/VideoTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/properties/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/properties/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/SqlMapConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-dao.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-service.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/applicationContext-trans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/resources/spring/springmvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/backstage/addVideo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/backstage/videoDetails.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/backstage/videoManag.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/indexVideoDetails.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/jsp/test.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/easyloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/jquery.easyui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/licence_gpl.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/license_commercial.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-cz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-jp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-sv_SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/locale/easyui-lang-zh_TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.combo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.combobox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.combogrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.combotree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.datagrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.datebox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.datetimebox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.dialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.draggable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.droppable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.linkbutton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.menubutton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.messager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.numberbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.numberspinner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.pagination.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.panel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.progressbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.propertygrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.resizable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.searchbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.spinner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.splitbutton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.timespinner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.treegrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.validatebox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/plugins/jquery.window.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/easyloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.combobox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.datebox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.draggable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.droppable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.linkbutton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.progressbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.propertygrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.resizable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/src/jquery.window.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/black/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/bootstrap/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/default/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/gray/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/icon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/webapp/static/easyui/themes/metro/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/mappings/VideoInfoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/mappings/VideoTypeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/properties/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/properties/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/SqlMapConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/applicationContext-dao.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/applicationContext-service.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/applicationContext-trans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/classes/spring/springmvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/m2e-wtp/web-resources/META-INF/maven/com.itmayiedu/itmayiedu-web/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itmayiedu-web/target/m2e-wtp/web-resources/META-INF/maven/com.itmayiedu/itmayiedu-web/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java" afterPath="$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/itmayiedu-web/target/" />
     <ignored path="$PROJECT_DIR$/itmayiedu-service/target/" />
@@ -422,9 +33,11 @@
       <file leaf-file-name="VideoInfoController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="231">
+              <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+              <folding>
+                <element signature="e#4400#4416#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -696,9 +309,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -827,12 +440,13 @@
       <workItem from="1528276873517" duration="1792000" />
       <workItem from="1528289508674" duration="13000" />
       <workItem from="1528289917498" duration="637000" />
-      <workItem from="1528337094219" duration="619000" />
+      <workItem from="1528337094219" duration="803000" />
+      <workItem from="1528346861402" duration="292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48820000" />
+    <option name="totallyTimeSpent" value="49296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -852,7 +466,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18437026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18740515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -879,14 +493,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java</url>
-          <line>63</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
@@ -899,7 +505,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#4400#4416#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -953,7 +561,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3402">
           <caret line="162" column="24" lean-forward="true" selection-start-line="162" selection-start-column="24" selection-end-line="162" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="e#4400#4416#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -976,7 +586,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2856">
           <caret line="136" column="44" lean-forward="true" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
-          <folding />
+          <folding>
+            <element signature="e#4400#4416#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1061,7 +673,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
           <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
-          <folding />
+          <folding>
+            <element signature="e#4400#4416#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1115,7 +729,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2226">
           <caret line="106" column="64" lean-forward="true" selection-start-line="106" selection-start-column="64" selection-end-line="106" selection-end-column="64" />
-          <folding />
+          <folding>
+            <element signature="e#4400#4416#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1169,7 +785,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#4400#4416#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1711,9 +1329,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itmayiedu-web/src/main/java/com/itmayiedu/controller/backstage/VideoInfoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="231">
+          <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+          <folding>
+            <element signature="e#4400#4416#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
