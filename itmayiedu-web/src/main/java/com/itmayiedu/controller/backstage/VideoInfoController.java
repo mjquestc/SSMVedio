@@ -44,6 +44,7 @@ public class VideoInfoController {
 	private static final String VIDEOMANAG = BASE + "videoManag";
 	private static final String LOCAVIDEO = BASE + "addVideo";
 	private static final String VIDEODETAILS = BASE + "videoDetails";
+	private static final String TESTFIRST="ÔÝ´æÇø";
 
 	/**
 	 *
